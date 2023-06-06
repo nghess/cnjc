@@ -1,0 +1,18 @@
+Deep CANALs Notes:
+
+Page 10: Does de-canalization necessarily disrupt all belief hierarchies equally? Do certain types of beliefs reside in more or less affected regions, either because of 5HT2AR density or by anatomical connectivity?
+
+*The article is useful because in order to protect these drugs for those who need them, we need to understand what the misapplication looks like.
+
+what is the mechanism that disrupts high-level generative models' prediction of lower levels (and inability to supress those beliefs)
+	> is this related to faulty signal transmission, or to a greater than average prediction error
+	> a higher entropy brain would mean one with more free energy, and free energy could be understood in terms of prediction error residuals?
+
+does a high canalized hierarchy model cease to produce meaningful prediction errors, or simply cease to interpret them?
+
+
+
+how many levels in the hierarchy might be conciously accessible?
+	> my sense is that high level (but subordinate) models reach the level of concious percxeption as feelings but not thoughts.
+	> but how articulate are these models, and are there beliefs that are articulate, but always below the level of concious articulation?
+	> how might that fit into theories around entity contact in breakthrough trips?
