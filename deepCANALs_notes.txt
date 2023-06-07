@@ -16,3 +16,10 @@ how many levels in the hierarchy might be conciously accessible?
 	> my sense is that high level (but subordinate) models reach the level of concious percxeption as feelings but not thoughts.
 	> but how articulate are these models, and are there beliefs that are articulate, but always below the level of concious articulation?
 	> how might that fit into theories around entity contact in breakthrough trips?
+
+does looking at psychopathology through an abstract lense make any sense in disorders where there may be genet
+
+Arthur:
+What does minimizing free energy in an RNN look like?
+Can you walk me through figure 2?
+do the inference and learning phases relate to the trip and the aftermath?
