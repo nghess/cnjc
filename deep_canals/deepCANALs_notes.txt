@@ -11,7 +11,6 @@ what is the mechanism that disrupts high-level generative models' prediction of 
 does a high canalized hierarchy model cease to produce meaningful prediction errors, or simply cease to interpret them?
 
 
-
 how many levels in the hierarchy might be conciously accessible?
 	> my sense is that high level (but subordinate) models reach the level of concious percxeption as feelings but not thoughts.
 	> but how articulate are these models, and are there beliefs that are articulate, but always below the level of concious articulation?
