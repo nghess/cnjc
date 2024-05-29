@@ -1,0 +1,13 @@
+[] how do source 1 and 2 work?
+
+Each element of s and o
+took either a 1 (ON) or a 0 (OFF) state. The left stimuli group
+(o1, . . . ,o16) in Fig. 1a (left) took the value of source 1 with a 75% probability
+or the value of source 2 with a 25% probability. In contrast, the
+right group (o17, . . . ,o32) took the value of source 1 or 2 with a 25% or
+75% probability, respectively. Analogous to the cocktail party
+effect27,28, this setup is formally homologous to the task of distinguishing
+the voices of speakers 1 (s1) and 2 (s2)
+
+
+[] variational bayes page?
